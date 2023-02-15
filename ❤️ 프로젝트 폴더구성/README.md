@@ -1,0 +1,17 @@
+프로젝트 폴더구성은 
+- lib
+  - main.dart
+  - pages
+    - login.dart
+    - list.dart
+  - layout
+    - top_header.dart
+  - widgets
+    - popup.dart
+    - timeline_item.dart
+  - store
+    - app_store.dart
+  - services
+    - api.dart
+  - common
+    - util.dart
