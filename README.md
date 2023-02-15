@@ -9,7 +9,7 @@
     - 화면설계서
 ### [❤️ 프로젝트 폴더구성 ](/%E2%9D%A4%EF%B8%8F%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%ED%8F%B4%EB%8D%94%EA%B5%AC%EC%84%B1/)
 2. 설계
-    - Page, Layout, Widget
+    - UI - Page, Layout, Widget
     - Data Structure
         * UI Data
         * Server Interface
